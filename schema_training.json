@@ -1,0 +1,20 @@
+{	"SampleFileName": "zomato_15052019_170448.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" :18,
+	"ColName": {
+				"serial": "FLOAT",
+				"online_order": "VARCHAR",
+				"book_table" : "VARCHAR",
+				"rate" : "VARCHAR",
+				"votes" : "FLOAT",
+				"location" : "VARCHAR",
+				"rest_type" : "VARCHAR",
+				"cuisines" : "VARCHAR",
+				"approx_cost(for two people)" : "FLOAT",
+				"menu_item" : "VARCHAR",
+				"listed_in(type)": "VARCHAR",
+				"listed_in(city)": "VARCHAR"
+	}
+}
+
