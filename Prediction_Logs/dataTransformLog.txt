@@ -1,0 +1,11 @@
+2020-02-15/15:59:06		 visibility_08012014_120016.csv: Quotes added successfully!!
+2020-02-15/15:59:30		 visibility_08012014_120016.csv: Quotes added successfully!!
+2020-02-15/18:55:52		 visibility_08012014_120016.csv: Quotes added successfully!!
+2020-02-15/18:55:52		 visibility_08012018_120020.csv: Quotes added successfully!!
+2020-04-17/20:22:58		 visibility_08012014_120016.csv: Quotes added successfully!!
+2020-04-17/20:22:59		 visibility_08012018_120020.csv: Quotes added successfully!!
+2020-05-15/19:46:51		Data Transformation failed because:: 'DATE'
+2020-05-15/19:49:18		Data Transformation failed because:: 'DATE'
+2020-05-15/19:54:14		 FitBit_16052019_120444.csv: Quotes added successfully!!
+2020-05-18/20:58:56		 zomato_18052019_084400.csv: Quotes added successfully!!
+2020-05-18/21:07:40		 zomato_18052019_084400.csv: Quotes added successfully!!

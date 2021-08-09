@@ -1,0 +1,9 @@
+,columns,missing values count
+0,online_order,0
+1,book_table,0
+2,votes,0
+3,location,0
+4,rest_type,1
+5,cuisines,2
+6,approx_cost(for two people),0
+7,menu_item,0

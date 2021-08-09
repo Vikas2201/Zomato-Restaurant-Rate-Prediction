@@ -1,0 +1,33 @@
+2020-02-14/20:42:46		Column Length Validation Started!!
+2020-02-14/20:42:46		Column Length Validation Completed!!
+2020-02-15/16:35:14		Column Length Validation Started!!
+2020-02-15/16:35:14		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2020-02-15/16:35:14		Column Length Validation Completed!!
+2020-05-15/18:25:52		Column Length Validation Started!!
+2020-05-15/18:25:59		Column Length Validation Completed!!
+2020-05-15/20:07:56		Column Length Validation Started!!
+2020-05-15/20:07:56		Column Length Validation Completed!!
+2020-05-16/20:32:20		Column Length Validation Started!!
+2020-05-16/20:32:21		Error Occured:: Error tokenizing data. C error: EOF inside string starting at row 1029
+2020-05-16/21:15:28		Column Length Validation Started!!
+2020-05-16/21:15:28		Column Length Validation Completed!!
+2020-05-16/21:17:25		Column Length Validation Started!!
+2020-05-16/21:17:36		Column Length Validation Completed!!
+2020-05-16/21:28:29		Column Length Validation Started!!
+2020-05-16/21:28:29		Column Length Validation Completed!!
+2020-05-16/21:29:50		Column Length Validation Started!!
+2020-05-16/21:29:51		Column Length Validation Completed!!
+2020-05-16/21:35:41		Column Length Validation Started!!
+2020-05-16/21:35:41		Column Length Validation Completed!!
+2020-05-16/21:37:25		Column Length Validation Started!!
+2020-05-16/21:37:25		Column Length Validation Completed!!
+2020-05-17/21:05:27		Column Length Validation Started!!
+2020-05-17/21:05:31		Column Length Validation Completed!!
+2020-05-17/21:51:38		Column Length Validation Started!!
+2020-05-17/21:51:38		Column Length Validation Completed!!
+2020-05-17/22:24:30		Column Length Validation Started!!
+2020-05-17/22:24:30		Column Length Validation Completed!!
+2020-05-17/22:33:04		Column Length Validation Started!!
+2020-05-17/22:33:05		Column Length Validation Completed!!
+2020-05-17/22:35:58		Column Length Validation Started!!
+2020-05-17/22:35:58		Column Length Validation Completed!!

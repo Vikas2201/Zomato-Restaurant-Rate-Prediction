@@ -1,0 +1,28 @@
+2020-02-15/15:57:44		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:28		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:51		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-04-17/20:22:58		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2020-05-15/19:29:20		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:29:34		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:46:40		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:46:40		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:49:07		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:49:07		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:54:01		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:54:01		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-18/20:47:22		Valid File name!! File moved to GoodRaw Folder :: zomato_18052019_084400.csv
+2020-05-18/20:47:27		Invalid File Name!! File moved to Bad Raw Folder :: zomato_18052019_44.csv
+2020-05-18/20:56:44		Error occured while validating FileName [Errno 13] Permission denied: 'Prediction_Batch_files/.ipynb_checkpoints'
+2020-05-18/20:57:53		Valid File name!! File moved to GoodRaw Folder :: zomato_18052019_084400.csv
+2020-05-18/20:57:53		Invalid File Name!! File moved to Bad Raw Folder :: zomato_18052019_44.csv
+2020-05-18/21:07:40		Valid File name!! File moved to GoodRaw Folder :: zomato_18052019_084400.csv
+2020-05-18/21:07:40		Invalid File Name!! File moved to Bad Raw Folder :: zomato_18052019_44.csv

@@ -1,0 +1,25 @@
+2020-02-15/15:57:47		Column Length Validation Started!!
+2020-02-15/15:57:47		Column Length Validation Completed!!
+2020-02-15/15:59:05		Column Length Validation Started!!
+2020-02-15/15:59:06		Column Length Validation Completed!!
+2020-02-15/15:59:28		Column Length Validation Started!!
+2020-02-15/15:59:28		Column Length Validation Completed!!
+2020-02-15/18:55:51		Column Length Validation Started!!
+2020-02-15/18:55:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:51		Column Length Validation Completed!!
+2020-04-17/20:22:58		Column Length Validation Started!!
+2020-04-17/20:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2020-04-17/20:22:58		Column Length Validation Completed!!
+2020-05-15/19:29:38		Column Length Validation Started!!
+2020-05-15/19:29:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:29:38		Column Length Validation Completed!!
+2020-05-15/19:46:41		Column Length Validation Started!!
+2020-05-15/19:46:41		Column Length Validation Completed!!
+2020-05-15/19:49:10		Column Length Validation Started!!
+2020-05-15/19:49:10		Column Length Validation Completed!!
+2020-05-15/19:54:01		Column Length Validation Started!!
+2020-05-15/19:54:01		Column Length Validation Completed!!
+2020-05-18/20:57:55		Column Length Validation Started!!
+2020-05-18/20:57:55		Column Length Validation Completed!!
+2020-05-18/21:07:40		Column Length Validation Started!!
+2020-05-18/21:07:40		Column Length Validation Completed!!
